@@ -29,11 +29,11 @@ Blood-Bank-Management-System/image
 ```
 ## Attack results
 
-![9541c6e3-42e1-45ba-b2ee-77c1c80ea91e](/Users/aipao/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_zx6fxs8godd422_0b5c/temp/InputTemp/9541c6e3-42e1-45ba-b2ee-77c1c80ea91e.png)
+![9541c6e3-42e1-45ba-b2ee-77c1c80ea91e](images/file-directory.png)
 
-![715572c2-4fd8-44da-862d-b068661d0194](/Users/aipao/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_zx6fxs8godd422_0b5c/temp/InputTemp/715572c2-4fd8-44da-862d-b068661d0194.png)
+![715572c2-4fd8-44da-862d-b068661d0194](images/sql-directory.png)
 
-![42a0e793-456d-4a63-b7e3-3c5b55d23e16](/Users/aipao/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_zx6fxs8godd422_0b5c/temp/InputTemp/42a0e793-456d-4a63-b7e3-3c5b55d23e16.png)
+![42a0e793-456d-4a63-b7e3-3c5b55d23e16](images/image-directory.png)
 
 ## Suggested repair
 
